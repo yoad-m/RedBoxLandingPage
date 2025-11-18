@@ -5,7 +5,6 @@
 
   export default defineConfig({
     plugins: [react()],
-      base: '/RedBoxLandingPage/',
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
       alias: {
